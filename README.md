@@ -13,7 +13,7 @@ I'm an AI engineer dedicated to creating practical solutions using advanced tech
 
 ## 📫 Connect with Me
 
-- **Portfolio** → [dkethan.github.io]([https://dkethan.github.io/](https://dkethan.github.io/kethandosapati.github.io/))
+- **Portfolio** → [https://dkethan.github.io/](https://dkethan.github.io/kethandosapati.github.io/)
 - **LinkedIn** → [linkedin.com/in/kethan-dosapati/](https://www.linkedin.com/in/kethan-dosapati/)
 - **GitHub** → [github.com/DKethan](https://github.com/DKethan)
 - **Python Packages (PyPI)** → [pypi.org/user/dkethan/](https://pypi.org/user/dkethan/)
