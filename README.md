@@ -1,9 +1,3 @@
-# Hi, I'm Kethan Dosapati 👋
-
-I'm an AI engineer dedicated to creating practical solutions using advanced technology.
-
----
-
 ## 🧠 Wanna Know More About Me?
 
 <a href="https://dkethan.github.io/kethandosapati.github.io/" target="_blank">
