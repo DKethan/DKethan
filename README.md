@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
----
-
 ## 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/kethan-dosapati/" target="_blank">
@@ -17,8 +15,6 @@
 <a href="mailto:kethandosapati@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-
----
 
 ## 💻 My Projects
 
@@ -35,15 +31,11 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </a>
 
----
-
 ## ✍️ Articles
 
 <a href="https://medium.com/@kethandosapati" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-
----
 
 ## 🎨 Work & Passion Projects
 
@@ -56,8 +48,6 @@
 <a href="https://x.com/filmicharmony" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-Filmicharmony-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Filmicharmony" />
 </a>
-
----
 
 ## 🚀 Explore More
 
