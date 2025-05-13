@@ -54,8 +54,4 @@
 
 ### 🔥 GitHub Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKethan&theme=github_dark&hide_border=true" alt="GitHub Streaks" />
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKethan&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
-
 </div>
