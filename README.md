@@ -32,13 +32,12 @@
   <a href="https://share.streamlit.io/user/dkethan" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 </p>
 
-## 💻 My Projects
+## 🎨 Work & Passion Projects
 
 <p>
-  <a href="https://github.com/DKethan" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://pypi.org/user/dkethan/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
-  <a href="https://huggingface.co/DKethan" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <a href="https://share.streamlit.io/user/dkethan" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://www.instagram.com/filmicharmony/" target="_blank"><img src="https://img.shields.io/badge/Filmicharmony-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@filmicharmony" target="_blank"><img src="https://img.shields.io/badge/Filmicharmony-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://x.com/filmicharmony" target="_blank"><img src="https://img.shields.io/badge/Filmicharmony-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ### 📊 GitHub at a Glance
