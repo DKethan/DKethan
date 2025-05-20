@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23808080&size=28&duration=6000&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer+looking+for+Internships+2025" alt="Aspiring AI engineer looking for internships 2025" />
 </p>
 
-## ✍️ Articles and Portfolio
+## 📚 Portfolio & Articles
 
 <p>
   <a href="https://dkethan.github.io/kethandosapati.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
