@@ -48,7 +48,10 @@
 </p>
 
 <p align="center">
-  
+  <a href="https://linktr.ee/kethandosapati" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DKethan&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" /> 
 </p>
 
