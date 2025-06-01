@@ -9,7 +9,7 @@
 ## 📚 Portfolio & Articles
 
 <p>
-  <a href="https://dkethan.github.io/kethandosapati.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dkethan.github.io/kethandosapati/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://medium.com/@kethandosapati" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p> 
 
