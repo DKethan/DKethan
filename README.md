@@ -2,10 +2,6 @@
   Hello, I'm Kethan Dosapati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23808080&size=28&duration=6000&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer+looking+for+Internships+2025" alt="Aspiring AI engineer looking for internships 2025" />
-</p>
-
 ## 📚 Portfolio & Articles
 
 <p>
