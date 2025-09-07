@@ -38,10 +38,14 @@
 
 ### 📊 GitHub at a Glance
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DKethan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKethan&theme=github_dark&hide_border=true" alt="GitHub Streaks" height="180px"/>
+<p style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DKethan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+       alt="GitHub Stats" style="width: 50%; height: auto;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKethan&theme=github_dark&hide_border=true"
+       alt="GitHub Streaks" style="width: 50%; height: auto;"/>
 </p>
+
+
 
 <p align="center">
   <a href="https://linktr.ee/kethandosapati" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
