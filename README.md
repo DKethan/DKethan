@@ -1,5 +1,3 @@
-<img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" width="1000px" height="300px">
-
 ## About Me
 
 - Hello! I'm **Kethan**, and I’m excited you’re here.  
