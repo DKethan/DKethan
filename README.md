@@ -14,7 +14,6 @@
   <a href="https://medium.com/@kethandosapati" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p> 
 
-
 ## 🤝 Connect with Me
 
 <p>
