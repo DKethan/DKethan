@@ -6,13 +6,13 @@
 - I enjoy teaming up with developers, researchers, and data enthusiasts to bring ideas to life **let’s connect and collaborate!**  
 
 
-
 ## 📚 Portfolio & Articles
 
 <p>
   <a href="https://dkethan.github.io/kethandosapati/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://medium.com/@kethandosapati" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p> 
+
 
 ## 🤝 Connect with Me
 
@@ -32,6 +32,7 @@
   <a href="https://share.streamlit.io/user/dkethan" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 </p>
 
+
 ## 🎨 Work & Passion Projects
 
 <p>
@@ -39,6 +40,7 @@
   <a href="https://www.youtube.com/@filmicharmony" target="_blank"><img src="https://img.shields.io/badge/Filmicharmony-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://x.com/filmicharmony" target="_blank"><img src="https://img.shields.io/badge/Filmicharmony-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
+
 
 ### 📊 GitHub at a Glance
 
@@ -48,8 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKethan&theme=github_dark&hide_border=true"
        alt="GitHub Streaks" style="width: 50%; height: auto;"/>
 </p>
-
-
 
 <p align="center">
   <a href="https://linktr.ee/kethandosapati" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
